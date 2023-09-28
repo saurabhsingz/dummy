@@ -1,0 +1,41 @@
+a {
+    text-decoration: none;
+}
+
+.navcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+    width: 40%;
+    justify-content: space-between;
+    font: 18px;
+    color:#c97ce5;
+}
+
+
+.myclass{
+    color:#1cb9a8;
+}
+.avtarSec{
+    display: flex;
+    width: 90px;
+    height: 40px;
+    align-items: center;
+}
+.avtar{
+    width: 40px;
+    height: 40px;
+}
+.signStatus {
+    font-size: 14px;
+    color: #1cb9a8;
+    font-weight: bold;
+}
